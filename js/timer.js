@@ -1,8 +1,8 @@
 // Set the date we're counting down to
 var countDownDate = new Date(brexit_string.uk_time).getTime();
 
-console.log(brexit_string.wording);
-console.log(brexit_string.uk_time);
+// console.log(brexit_string.wording);
+// console.log(brexit_string.uk_time);
 
 // Update the count down every 1 second
 var x = setInterval(function() {
