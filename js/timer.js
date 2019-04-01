@@ -25,6 +25,3 @@ var x = setInterval(function() {
         document.getElementById(timerID).innerHTML = "Brexit already happened.";
     }
 }, 1000);
-
-// console.log(brexit_string.wording);
-// console.log(brexit_string.uk_time);
