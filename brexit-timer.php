@@ -47,7 +47,7 @@ class BrexitTimer {
 
         $vars = shortcode_atts( array(
             'wording'   => 'Brexit',
-            'date'  => '2019-04-12 23:00:00'
+            'date'  => '2019-10-31 23:00:00'
         ), $atts );
 
 
